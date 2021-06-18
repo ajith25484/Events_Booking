@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.landing-page{
+  background: white url("./images/bg-image.jpeg") scroll center;
+  background-size: cover;
+  height: 100vh;
+  color: whitesmoke;
+}
+.wrapper{
+  background-color: rgba(0,0,0,0.7);
+  height:100%
+}
